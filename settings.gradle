@@ -1,0 +1,2 @@
+rootProject.name = "EditTextApp"
+include ':app'
